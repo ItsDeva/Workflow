@@ -7,6 +7,6 @@ jobs:
       - name: Greeting the world
         run: |
             echo "Hi"
-            echo "ls"
-            echo "pwd"
-            echo "uname -a"
+            ls
+            pwd
+            uname
